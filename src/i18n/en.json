@@ -1,0 +1,21 @@
+{
+  "_comment": "English master copy. Wrap words in *asterisks* to highlight them in the scene colour.",
+  "meta": { "title": "A Day in a Company", "description": "We integrate AI into your company, trained on your own data." },
+  "scenes": {
+    "chaos": { "kicker": "01 — The daily grind", "marker": "Chaos", "headline": "Every day: the same tasks. The same *late hours.*" },
+    "spark": { "kicker": "02 — The spark", "marker": "Spark", "headline": "What if your company had *its own AI?*" },
+    "training": { "kicker": "03 — Training", "marker": "Training", "headline": "Trained on *your data.* Built for your company." },
+    "security": { "kicker": "04 — Security", "marker": "Security", "headline": "Your data. *Your rules.*" },
+    "agents": { "kicker": "05 — Agents at work", "marker": "Agents", "headline": "Repetitive work *runs itself.*" },
+    "calm": { "kicker": "06 — Calm", "marker": "Calm", "headline": "Your company can *work like this* too." }
+  },
+  "split": {
+    "localTitle": "Local AI",
+    "localText": "Your data never leaves your building.",
+    "cloudTitle": "Claude API agents",
+    "cloudText": "Secure, powerful, scalable."
+  },
+  "counter": { "label": "Hours saved per week", "unit": "h" },
+  "final": { "cta": "Scan to talk to us", "tagline": "AI integration · trained on your data · set up end to end" },
+  "ui": { "scroll": "Scroll to begin", "sound": "Sound", "kiosk": "Autoplay", "touch": "Touch or scroll to explore", "language": "Language" }
+}

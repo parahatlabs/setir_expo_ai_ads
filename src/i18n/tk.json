@@ -1,0 +1,21 @@
+{
+  "_comment": "TURKMEN (Latin). ⚠ Draft translation — a native Turkmen speaker should proofread this file before the expo. Wrap words in *asterisks* to highlight them.",
+  "meta": { "title": "Kompaniýada bir gün", "description": "Emeli aňy kompaniýaňyza ornaşdyrýarys we ony öz maglumatlaryňyzda okadýarys." },
+  "scenes": {
+    "chaos": { "kicker": "01 — Gündelik iş", "marker": "Bulam-bujarlyk", "headline": "Her gün: şol bir işler. Şol bir *giçki sagatlar.*" },
+    "spark": { "kicker": "02 — Uçgun", "marker": "Uçgun", "headline": "Kompaniýaňyzyň *öz emeli aňy* bolsa näme?" },
+    "training": { "kicker": "03 — Okatmak", "marker": "Okatmak", "headline": "*Siziň maglumatlaryňyzda* okadylan. Kompaniýaňyz üçin döredilen." },
+    "security": { "kicker": "04 — Howpsuzlyk", "marker": "Howpsuzlyk", "headline": "Siziň maglumatlaryňyz. *Siziň düzgünleriňiz.*" },
+    "agents": { "kicker": "05 — Agentler işde", "marker": "Agentler", "headline": "Gaýtalanýan işler *özbaşdak ýerine ýetirilýär.*" },
+    "calm": { "kicker": "06 — Asudalyk", "marker": "Asudalyk", "headline": "Siziň kompaniýaňyz hem *şeýle işläp* biler." }
+  },
+  "split": {
+    "localTitle": "Lokal emeli aň",
+    "localText": "Maglumatlaryňyz binaňyzdan hiç haçan çykmaýar.",
+    "cloudTitle": "Claude API agentleri",
+    "cloudText": "Ygtybarly, güýçli, giňeldip bolýan."
+  },
+  "counter": { "label": "Hepdede tygşytlanan sagat", "unit": "sag" },
+  "final": { "cta": "Skanirläň we biz bilen habarlaşyň", "tagline": "Emeli aňy ornaşdyrmak · siziň maglumatlaryňyzda okadylan · başdan-aýak gurnalan" },
+  "ui": { "scroll": "Başlamak üçin aşak aýlaň", "sound": "Ses", "kiosk": "Awtomatik görkeziş", "touch": "Öwrenmek üçin degiň ýa-da aýlaň", "language": "Dil" }
+}
